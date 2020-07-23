@@ -1,0 +1,10 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\bin\Debug\SimpleDigitalClock.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\bin\Debug\SimpleDigitalClock.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\bin\Debug\SimpleDigitalClock.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.DigitalClock.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.pdb
